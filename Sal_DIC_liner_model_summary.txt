@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        DIC_micromol_kg   R-squared:                       0.323
+Model:                            OLS   Adj. R-squared:                  0.316
+Method:                 Least Squares   F-statistic:                     47.67
+Date:                Tue, 21 Nov 2023   Prob (F-statistic):           4.71e-10
+Time:                        21:07:23   Log-Likelihood:                -759.53
+No. Observations:                 102   AIC:                             1523.
+Df Residuals:                     100   BIC:                             1528.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const       3165.3265     66.313     47.733      0.000    3033.763    3296.890
+Sal_psu      -21.3994      3.099     -6.904      0.000     -27.549     -15.250
+==============================================================================
+Omnibus:                        9.970   Durbin-Watson:                   0.430
+Prob(Omnibus):                  0.007   Jarque-Bera (JB):               10.065
+Skew:                           0.662   Prob(JB):                      0.00652
+Kurtosis:                       3.784   Cond. No.                         34.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
