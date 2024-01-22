@@ -3,8 +3,8 @@
 Dep. Variable:        DIC_micromol_kg   R-squared:                       0.924
 Model:                            OLS   Adj. R-squared:                  0.924
 Method:                 Least Squares   F-statistic:                     1222.
-Date:                Tue, 21 Nov 2023   Prob (F-statistic):           7.26e-58
-Time:                        21:07:21   Log-Likelihood:                -647.75
+Date:                Mon, 22 Jan 2024   Prob (F-statistic):           7.26e-58
+Time:                        16:17:25   Log-Likelihood:                -647.75
 No. Observations:                 102   AIC:                             1299.
 Df Residuals:                     100   BIC:                             1305.
 Df Model:                           1                                         
