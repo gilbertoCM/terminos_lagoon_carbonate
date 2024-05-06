@@ -3,8 +3,8 @@
 Dep. Variable:         TA_micromol_kg   R-squared:                       0.143
 Model:                            OLS   Adj. R-squared:                  0.134
 Method:                 Least Squares   F-statistic:                     16.64
-Date:                Tue, 26 Mar 2024   Prob (F-statistic):           9.09e-05
-Time:                        14:22:25   Log-Likelihood:                -761.71
+Date:                Mon, 06 May 2024   Prob (F-statistic):           9.09e-05
+Time:                        12:18:39   Log-Likelihood:                -761.71
 No. Observations:                 102   AIC:                             1527.
 Df Residuals:                     100   BIC:                             1533.
 Df Model:                           1                                         
