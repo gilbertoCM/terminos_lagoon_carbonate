@@ -126,6 +126,4 @@ dmypy.json
 *.pdf
 
 # Output files
-../output_files/
-
-output_files/*.txt
+/output_files
