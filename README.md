@@ -19,53 +19,45 @@
 
 _________________________________________________________________________________________
 
-We thank GitHub Copilot for helping us code with the "Access free GitHub Education" program, which improved our coding productivity.
+For further details, please refer to the article *In preparation* or contact Gilberto Cardoso[^1] [^2].
+
+[^1]: https://www.icmyl.unam.mx/el_carmen/quienes_somos/personal_academico/jose-gilberto-cardoso-mohedano
+[^2]: https://blinq.me/YKZ9U8mqdr8n?bs=db
+
 _________________________________________________________________________________________
 
-## Climatological Year of Temperature and Salinity Variation (2016-2018)
-
-This repository contains data and model simulations for the climatological year of temperature and salinity variation throughout 2016-2018.
+ Thank GitHub Copilot for helping us code with the "Access free GitHub Education" program, which improved our coding productivity.
+_________________________________________________________________________________________
 
 ## Data Field
 
-The data is located in the file 'data\salinity_terminos_marina_delft3d.csv', which contains the following columns:
+Data field was recoorded Terminos Lagoon, Mexico (18°01'54"N, 90°59'15"W), southern Gulf of Mexico (sGoM). 
 
-- Date_GMT_00 (for each year)
-- Conductivity_microsiemens_cm
-- Temp_C
-- Conductivity_microsiemens_cm_average
+"data\terminoslagoon_TA_DIC_2024_RawData.csv"
 
-## Climatological Data
+The data field contains the following columns:
+- Sample: Sample ID
+- Date: Date of sampling
+- Estuary: Estuary name
+- Area:    Area name
+- Station: Station name
+- Layer_depth: Bottom (0.5 m above the bottom) or Surface (0.5 m below the surface) layer
+- Season: Dry and rainy season
+- Chlorophy_microg_L: Chlorophyll-a concentration (µg L-1)
+- Cond_microsiemens_cm: Conductivity (µS cm-1)
+- Depth_m: Depth (m)
+- DO_percent_sat: Dissolved oxygen saturation (%) 
+- DO_mg_L: Dissolved oxygen concentration (mg L-1)
+- Sal_psu: Salinity (psu)
+- Sp_cond_microsiemens_cm: Specific conductivity (µS cm-1)
+- Turbidity_fnu: Turbidity (Formazin Nephelometric Units, FNU)
+- Temp_C: Temperature (°C)
+- latitude: Latitude (°) of the sampling site
+- longitude: Longitude (°) of the sampling site
+- DIC_micromol_kg: Dissolved inorganic carbon (DIC) concentration (µmol kg-1)
+- TA_micromol_kg: Total alkalinity (TA) concentration (µmol kg-1)
 
-The climatological data includes:
 
-- Temp_C_average
-- Conductivity_microsiemens_cm_average
-
-These measurements were taken every 30 minutes using Onset U24-001 Conductivity Data Logger sensors (HOBO) at the Ciudad del Carmen Observatory 1, located at the Carmen Coastal Observatory (18°37'54.04"N, 91°49'55.15"W), in Marina Port of the Ciudad del Carmen, Campeche[^1].
-
-## Salinity Calculation
-
-The salinity was calculated using a Python implementation of the Thermodynamic Equation of Seawater 2010[^2], assuming a constant sea level pressure of 0.
-
-## Model Data
-
-This repository also includes temperature and salinity results from a 3D hydrodynamic model. This model was implemented at the Ecological Modelling Laboratory, Ciudad del Carmen, ICML, UNAM, using Delft3D 4.01.00[^2].
-
-**Note:** 2016 is used as the reference year.
-
-The model data includes:
-
-- Time_model
-- Salinity_psu_model
-- Temperature_C_model
-
-For further details, please refer to the article *In preparation* or contact Gilberto Cardoso[^4].
-
-[^1]: Sanchez-Cabeza, J.A. et al. A low-cost long-term model of coastal observatories of global change. Journal of Operational Oceanography 12, (2019). https://doi.org/c4dp
-[^2]: https://teos-10.github.io/GSW-Python/#gsw-python
-[^3]: https://www.icmyl.unam.mx/el_carmen/quienes_somos/personal_academico/jose-gilberto-cardoso-mohedano
-[^4]: https://blinq.me/YKZ9U8mqdr8n?bs=db
 
 ## References
 
