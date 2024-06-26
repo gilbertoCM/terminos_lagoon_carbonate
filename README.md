@@ -15,11 +15,11 @@
 
  \*Corresponding Author: gcardoso@cmarl.unam.mx Phone:+52-938-38-31847
 
-[doi:XXXXX](https://XXXX)
+[DOI](https://doi.org/10.1007/s12237-024-01384-1)
 
 _________________________________________________________________________________________
 
-For further details, please refer to the article *In preparation* or contact Gilberto Cardoso[^1] [^2].
+For further details, please refer to the article or contact Gilberto Cardoso[^1] [^2].
 
 [^1]: https://www.icmyl.unam.mx/el_carmen/quienes_somos/personal_academico/jose-gilberto-cardoso-mohedano
 [^2]: https://blinq.me/YKZ9U8mqdr8n?bs=db
