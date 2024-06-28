@@ -21,7 +21,7 @@
 
 [doi:10.1007/s12237-024-01384-1](https://doi.org/10.1007/s12237-024-01384-1)
 
-- Data are available in [![DOI](https://zenodo.org/badge/814332043.svg)](https://zenodo.org/doi/10.5281/zenodo.12556176)
+- Please use the following text to cite the code: [![DOI](https://zenodo.org/badge/814332043.svg)](https://zenodo.org/doi/10.5281/zenodo.12556176)
 
 
 _________________________________________________________________________________________
