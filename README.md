@@ -1,5 +1,9 @@
 
-# Variability of dissolved inorganic carbon in the largest karst estuarine lagoon system of the southern Gulf of Mexico
+## The Python codes were developed by Cardoso-Mohedano JG (gilbertoCM). 
+
+-  The data and results were used in the publication:
+
+## Variability of dissolved inorganic carbon in the largest karst estuarine lagoon system of the southern Gulf of Mexico
 
 ### José Andrés Martínez-Trejo<sup>1</sup>, Jose-Gilberto Cardoso-Mohedano<sup>2,*</sup>, Joan Albert Sanchez-Cabeza<sup>3</sup>, José Martin Hernández Ayón<sup>4</sup>, Ana Carolina Ruiz-Fernández<sup> 3 </sup>, Mario Alejandro Gómez-Ponce <sup>2</sup> , Linda Barranco-Servín<sup>5</sup>, Daniel Pech<sup>5</sup>
 
@@ -16,6 +20,9 @@
  \*Corresponding Author: gcardoso@cmarl.unam.mx Phone:+52-938-38-31847
 
 [doi:10.1007/s12237-024-01384-1](https://doi.org/10.1007/s12237-024-01384-1)
+
+- Data are available in [![DOI](https://zenodo.org/badge/814332043.svg)](https://zenodo.org/doi/10.5281/zenodo.12556176)
+
 
 _________________________________________________________________________________________
 
