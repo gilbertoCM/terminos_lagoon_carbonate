@@ -11,17 +11,17 @@
 
 <sup> 2 </sup>  Estación el Carmen, Instituto de Ciencias del Mar y Limnología, Universidad Nacional Autónoma de México, Carretera Carmen-Puerto Real km. 9.5, 24157 Ciudad del Carmen, Campeche, México
 
-<sup> 3 </sup>  Unidad Académica Mazatlán, Instituto de Ciencias del Mar y Limnología, Universidad Nacional Autónoma de México, Calzada Joel Montes Camarena s/n, Colonia Playa Sur, Mazatlán 82000, Sinaloa, México
+<sup> 3 </sup>  Unidad Académica Mazatlán, Instituto de Ciencias del Mar y Limnología, Universidad Nacional Autónoma de México, Calzada Joel Montes Camarena s/n, Mazatlán 82040, Sinaloa, México
 
 <sup> 4 </sup>  Instituto de Investigaciones Oceanológicas, Universidad Autónoma de Baja California, Km. 103 CarreteraTijuana-Ensenada, Ensenada, Baja California, México
 
-<sup> 5 </sup> Laboratorio de Biodiversidad Marina y Cambio Climático (BIOMARCCA), El Colegio de la Frontera Sur, Lerma, Campeche, México. 
+<sup> 5 </sup> Laboratorio de Biodiversidad Marina y Cambio Climático (BIOMARCCA), El Colegio de la Frontera Sur, Lerma, 24500, Campeche, México. 
 
  \*Corresponding Author: gcardoso@cmarl.unam.mx Phone:+52-938-38-31847
 
 [doi:10.1007/s12237-024-01384-1](https://doi.org/10.1007/s12237-024-01384-1)
 
-- Please use the following text to cite the code: [![DOI](https://zenodo.org/badge/814332043.svg)](https://zenodo.org/doi/10.5281/zenodo.12556176)
+- Please use the following link to cite the code: [![DOI](https://zenodo.org/badge/814332043.svg)](https://zenodo.org/doi/10.5281/zenodo.12556176)
 
 
 _________________________________________________________________________________________
@@ -66,7 +66,7 @@ The data field contains the following columns:
 
 
 
-## References
+## References used in the PyCO2SYS code
 
 - Humphreys, M. P., Lewis, E. R., Sharp, J. D., & Pierrot, D. (2022). PyCO2SYS v1.8: Marine carbonate system calculations in Python. Geoscientific Model Development, 15(1), 15–43. https://doi.org/10.5194/gmd-15-15-2022
 - Millero, F. J. (2010). Carbonate constants for estuarine waters. Marine and Freshwater Research, 61(2), 139. https://doi.org/10.1071/MF09254
