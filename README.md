@@ -21,7 +21,8 @@
 
 [doi:10.1007/s12237-024-01384-1](https://doi.org/10.1007/s12237-024-01384-1)
 
-- Please use the following link to cite the code: [![DOI](https://zenodo.org/badge/814332043.svg)](https://zenodo.org/doi/10.5281/zenodo.12556176)
+- Please use the following link to cite the code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12796756.svg)](https://doi.org/10.5281/zenodo.12796756)
+
 
 
 _________________________________________________________________________________________
